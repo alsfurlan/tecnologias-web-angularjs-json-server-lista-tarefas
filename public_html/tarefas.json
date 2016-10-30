@@ -1,0 +1,19 @@
+{
+  "tarefas": [
+    {
+      "descricao": "Primeira tarefa",
+      "id": 1,
+      "concluida": false
+    },
+    {
+      "descricao": "Segunda tarefa",
+      "id": 2,
+      "concluida": false
+    },
+    {
+      "descricao": "Terceira tarefa",
+      "concluida": false,
+      "id": 3
+    }
+  ]
+}
